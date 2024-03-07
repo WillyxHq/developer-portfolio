@@ -356,6 +356,16 @@ height: 300px;
 .founder-container p{
     width: 100%;
 }
+.first-p{
+    font-size: 25px;
+}
+.second-p,
+.third-p,
+.fourth-p,
+.fifth-p,
+.sixth-p{
+    font-size: 15px;
+}
 
 .interest-container{
     width: 90%;
@@ -365,13 +375,24 @@ height: 300px;
     height: 300px;
 }
 .interest-content button{
+    margin-top: 30px;
     display: block;
-    width: 50%;
+    width: 80%;
+    height: 50px;
 }
 .interest-paragraph{
-    font-size: 20px;
+    font-size: 18px;
     color: rgb(113, 114, 118);
 }
+}
+footer{
+    margin-top: 30px;
+}
+.footer-container{
+
+}
+.joh{
+    font-size: 15px;
 }
 
 
